@@ -1,2 +1,3 @@
 # members
+* katsu
 * junichi
